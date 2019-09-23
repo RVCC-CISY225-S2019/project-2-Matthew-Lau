@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: Fira Sans;
   margin: 0;
   
 }
@@ -117,4 +117,3 @@ img.my-picture {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
 }
-<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600&display=swap" rel="stylesheet">
